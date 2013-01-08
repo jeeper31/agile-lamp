@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
+  <title>Builds of  PAA-Decision Support :: Trait Stacking Manager</title>
+  <link rel="alternate" href="http://teamcity.monsanto.com/viewType.html?buildTypeId=bt1724" />
+  <subtitle>Builds of [PAA-Decision Support :: Trait Stacking Manager {id=bt1724}] build configuration(s) of TeamCity server at http://teamcity.monsanto.com. (no more then 100 items, only for items since Aug 11, 2011)</subtitle>
+  <updated>2011-08-16T15:45:41Z</updated>
+  <dc:creator>TeamCity server</dc:creator>
+  <dc:date>2011-08-16T15:45:41Z</dc:date>
+
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #91 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414973&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-16T08:00:49Z</updated>
+
+    <published>2011-08-16T08:00:49Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4051, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+Finished on: &lt;strong&gt;Aug 16, 2011 3:00:49 AM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414973&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+bzhao&#xD;
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+&#xD;
+Tests: &lt;strong&gt;4,051 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414973&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-16T08:00:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #90 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414846&amp;buildTypeId=bt1724" />
+    <author>
+
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-15T22:41:24Z</updated>
+    <published>2011-08-15T22:41:24Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4050, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+Finished on: &lt;strong&gt;Aug 15, 2011 5:41:24 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414846&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+aaajar&#xD;
+
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;4,050 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414846&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-15T22:41:24Z</dc:date>
+  </entry>
+
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #89 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414760&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-15T19:50:44Z</updated>
+
+    <published>2011-08-15T19:50:44Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4050, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+Finished on: &lt;strong&gt;Aug 15, 2011 2:50:44 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414760&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+hpbhan&#xD;
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+&#xD;
+Tests: &lt;strong&gt;4,050 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414760&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-15T19:50:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #88 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414734&amp;buildTypeId=bt1724" />
+    <author>
+
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-15T19:00:24Z</updated>
+    <published>2011-08-15T19:00:24Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4051, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+Finished on: &lt;strong&gt;Aug 15, 2011 2:00:24 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414734&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+ajgadd&#xD;
+
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;4,051 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414734&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-15T19:00:24Z</dc:date>
+  </entry>
+
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #87 has failed</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414680&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Failed Build</name>
+    </author>
+    <updated>2011-08-15T15:54:01Z</updated>
+
+    <published>2011-08-15T15:54:01Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests failed: 2 (1 new), passed: 4049, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+Finished on: &lt;strong&gt;Aug 15, 2011 10:54:01 AM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414680&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+ajgadd&#xD;
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+&#xD;
+Tests: &lt;strong&gt;4,049 passed&#xD;
+  , 2 failed&#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+Failed tests: &#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@4cdef98]"&gt;&#xD;
+
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@4cdef98]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;&#xD;
+&#xD;
+&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414680&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+
+    <dc:creator>Failed Build</dc:creator>
+    <dc:date>2011-08-15T15:54:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #86 has failed</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414361&amp;buildTypeId=bt1724" />
+    <author>
+
+      <name>Failed Build</name>
+    </author>
+    <updated>2011-08-13T17:34:34Z</updated>
+    <published>2011-08-13T17:34:34Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests failed: 8, passed: 4043, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+Finished on: &lt;strong&gt;Aug 13, 2011 12:34:34 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: none&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;4,043 passed&#xD;
+
+  , 8 failed&#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+Failed tests: &#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@77d8c68d]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@77d8c68d]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@77d8c68d]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@77d8c68d]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@77d8c68d]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@77d8c68d]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@77d8c68d]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@77d8c68d]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;&#xD;
+&#xD;
+&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414361&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+
+    <dc:creator>Failed Build</dc:creator>
+    <dc:date>2011-08-13T17:34:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #85 has failed</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414210&amp;buildTypeId=bt1724" />
+    <author>
+
+      <name>Failed Build</name>
+    </author>
+    <updated>2011-08-12T22:51:19Z</updated>
+    <published>2011-08-12T22:51:19Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests failed: 8, passed: 4043, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+Finished on: &lt;strong&gt;Aug 12, 2011 5:51:19 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414210&amp;buildTypeId=bt1724"&gt;2&lt;/a&gt;&#xD;
+by &#xD;
+jjraju1&#xD;
+
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;4,043 passed&#xD;
+  , 8 failed&#xD;
+  , 37 ignored&#xD;
+
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+Failed tests: &#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@49b08b2a]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@49b08b2a]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@49b08b2a]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@49b08b2a]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@49b08b2a]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@49b08b2a]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@49b08b2a]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@49b08b2a]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;&#xD;
+
+&#xD;
+&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414210&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Failed Build</dc:creator>
+    <dc:date>2011-08-12T22:51:19Z</dc:date>
+  </entry>
+
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #83 has failed</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414146&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Failed Build</name>
+    </author>
+    <updated>2011-08-12T20:23:24Z</updated>
+
+    <published>2011-08-12T20:23:24Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests failed: 8, passed: 4043, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+Finished on: &lt;strong&gt;Aug 12, 2011 3:23:24 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414146&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+jjalli1&#xD;
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+&#xD;
+Tests: &lt;strong&gt;4,043 passed&#xD;
+  , 8 failed&#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+Failed tests: &#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@5d87ed06]"&gt;&#xD;
+
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@5d87ed06]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@5d87ed06]"&gt;&#xD;
+
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@5d87ed06]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@5d87ed06]"&gt;&#xD;
+
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@5d87ed06]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@5d87ed06]"&gt;&#xD;
+
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@5d87ed06]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;&#xD;
+&#xD;
+&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414146&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+
+    <dc:creator>Failed Build</dc:creator>
+    <dc:date>2011-08-12T20:23:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #81 has failed</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414125&amp;buildTypeId=bt1724" />
+    <author>
+
+      <name>Failed Build</name>
+    </author>
+    <updated>2011-08-12T19:38:29Z</updated>
+    <published>2011-08-12T19:38:29Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests failed: 316 (316 new), passed: 3735, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+Finished on: &lt;strong&gt;Aug 12, 2011 2:38:29 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414125&amp;buildTypeId=bt1724"&gt;2&lt;/a&gt;&#xD;
+by &#xD;
+bathalh, &#xD;
+
+&#xD;
+jjalli1&#xD;
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS11&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;3,735 passed&#xD;
+  , 316 failed&#xD;
+
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+Failed tests: &#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+&#xD;
+&#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@67fb0698]"&gt;&#xD;
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;, &#xD;
+
+ and 296 more&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414125&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Failed Build</dc:creator>
+    <dc:date>2011-08-12T19:38:29Z</dc:date>
+  </entry>
+
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #80 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414087&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-12T18:32:09Z</updated>
+
+    <published>2011-08-12T18:32:09Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4048, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+Finished on: &lt;strong&gt;Aug 12, 2011 1:32:09 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414087&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+bzhao&#xD;
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS16&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+&#xD;
+Tests: &lt;strong&gt;4,048 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414087&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-12T18:32:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #79 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414074&amp;buildTypeId=bt1724" />
+    <author>
+
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-12T17:44:27Z</updated>
+    <published>2011-08-12T17:44:27Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4048, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+Finished on: &lt;strong&gt;Aug 12, 2011 12:44:27 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=414074&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+bzhao&#xD;
+
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS05&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;4,048 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414074&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-12T17:44:27Z</dc:date>
+  </entry>
+
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #78 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=414036&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-12T15:58:25Z</updated>
+
+    <published>2011-08-12T15:58:25Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4048, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+Finished on: &lt;strong&gt;Aug 12, 2011 10:58:25 AM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: none&lt;br/&gt;&#xD;
+
+Agent: &lt;strong&gt;STLUCITPS04&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;4,048 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=414036&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-12T15:58:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #77 was successful</title>
+
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=413884&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-11T22:20:24Z</updated>
+    <published>2011-08-11T22:20:24Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4048, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+Finished on: &lt;strong&gt;Aug 11, 2011 5:20:24 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=413884&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+nabax&#xD;
+
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS19&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;4,048 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=413884&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-11T22:20:24Z</dc:date>
+  </entry>
+
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #76 has failed</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=413796&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Failed Build</name>
+    </author>
+    <updated>2011-08-11T18:29:42Z</updated>
+
+    <published>2011-08-11T18:29:42Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests failed: 1 (1 new), passed: 4047, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+Finished on: &lt;strong&gt;Aug 11, 2011 1:29:42 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=413796&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+aaajar&#xD;
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS16&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+&#xD;
+Tests: &lt;strong&gt;4,047 passed&#xD;
+  , 1 failed&#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+Failed tests: &#xD;
+&lt;a href="[TEMPLATE_ERROR: Method public java.lang.String jetbrains.buildServer.feedNotificator.generator.BuildWebLinks.getFailedTestResult(int) threw an exception when invoked on jetbrains.buildServer.feedNotificator.generator.BuildWebLinks@752bf8f8]"&gt;&#xD;
+
+  [TEMPLATE_ERROR: Expression failedTest.shortName is undefined on line 69, column 5 in feed-item-template.ftl.][TEMPLATE_ERROR: Expression failedTest.new is undefined on line 69, column 31 in feed-item-template.ftl.]&lt;/a&gt;&#xD;
+&#xD;
+&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=413796&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Failed Build</dc:creator>
+    <dc:date>2011-08-11T18:29:42Z</dc:date>
+
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #75 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=413772&amp;buildTypeId=bt1724" />
+    <author>
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-11T17:35:20Z</updated>
+
+    <published>2011-08-11T17:35:20Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4048, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+Finished on: &lt;strong&gt;Aug 11, 2011 12:35:20 PM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=413772&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+aaajar&#xD;
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS04&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+&#xD;
+Tests: &lt;strong&gt;4,048 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=413772&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-11T17:35:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Build PAA-Decision Support::Trait Stacking Manager #74 was successful</title>
+    <link rel="alternate" href="http://teamcity.monsanto.com/viewLog.html?buildId=413739&amp;buildTypeId=bt1724" />
+    <author>
+
+      <name>Successful Build</name>
+    </author>
+    <updated>2011-08-11T16:38:18Z</updated>
+    <published>2011-08-11T16:38:18Z</published>
+    <summary type="html">Status: &lt;strong&gt;Tests passed: 4048, ignored: 37&lt;/strong&gt;&lt;br/&gt;&#xD;
+
+Finished on: &lt;strong&gt;Aug 11, 2011 11:38:18 AM&lt;/strong&gt;&lt;br/&gt;&#xD;
+Changes in the build: &#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildChangesDiv&amp;buildId=413739&amp;buildTypeId=bt1724"&gt;1&lt;/a&gt;&#xD;
+by &#xD;
+aaajar&#xD;
+
+&lt;br/&gt;&#xD;
+Agent: &lt;strong&gt;STLUCITPS20&lt;/strong&gt;&lt;br/&gt;&#xD;
+&#xD;
+Tests: &lt;strong&gt;4,048 passed&#xD;
+  &#xD;
+  , 37 ignored&#xD;
+
+&lt;/strong&gt;&lt;br/&gt;&#xD;
+&lt;a href="http://teamcity.monsanto.com/viewLog.html?tab=buildLog&amp;buildId=413739&amp;buildTypeId=bt1724"&gt;Build log&lt;/a&gt;</summary>
+    <dc:creator>Successful Build</dc:creator>
+    <dc:date>2011-08-11T16:38:18Z</dc:date>
+  </entry>
+
+</feed>
+
